@@ -3,7 +3,7 @@
 
 @theme {  
     --font-lexend: "Lexend", sans-serif; 
-
+    --drop-shadow-glow: 0 1rem 5rem #3F0071;
     --color-darkTop: #06060F;
     --color-darkBottom: #000000;
 
