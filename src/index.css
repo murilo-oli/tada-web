@@ -6,11 +6,13 @@
     --drop-shadow-glow: 0 1rem 5rem #3F0071;
     --color-darkTop: #06060F;
     --color-darkBottom: #000000;
-
-    --color-darkBg: #03001C;
     --color-mainWhite: #fdfdfd;
-
     --color-grayFg: #697565;
     --color-mainFg: #3F0071;
     --color-secondFg: #4E3188;
+    --color-lightFg: #986cf0;
+    --color-lighterGray: #b1b1b3;
+    --color-lightBg:#111112;
+    --color-darkBg: #03001C;
+
 }
